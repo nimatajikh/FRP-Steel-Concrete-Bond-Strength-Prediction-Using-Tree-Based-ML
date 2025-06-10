@@ -32,4 +32,4 @@ This project is shared for academic and research purposes. Please cite the assoc
 
 Paper: Interpretable machine learning models for predicting flexural bond strength between FRP/steel bars and concrete.
 
-DOI: https://doi.org/10.1007/s42107-023-00764-5
+DOI: https://doi.org/10.1016/j.istruc.2025.108587
